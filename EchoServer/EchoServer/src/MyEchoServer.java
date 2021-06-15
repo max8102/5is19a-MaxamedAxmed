@@ -22,7 +22,7 @@ public class MyEchoServer extends Thread {
 		
 		ServerSocket serverSocket = null;
 
-		int serverPort = 108;
+		int serverPort = 1080;
         int myTimeout = 10000;
         int quietFlag = 0;
         
